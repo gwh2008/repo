@@ -5,6 +5,7 @@ import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
 import com.gary.test.ws.service.GreetingService;  
   
 public class TestGreetingService {  
+    //git 2015-5-27 第一次修改
     public static void main(String[] args) {  
         //创建WebService客户端代理工厂  
         JaxWsProxyFactoryBean factory = new JaxWsProxyFactoryBean();  
